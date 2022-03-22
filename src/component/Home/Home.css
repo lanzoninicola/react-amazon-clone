@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css?family=Sora|Manrope");
+
+html {
+  font-size: 100%;
+} /*16px*/
+
+.claim-section {
+  box-sizing: border-box;
+  height: 100vh;
+  overflow: hidden;
+  margin-left: -80rem;
+  background-color: #091e5f;
+}
+
+.claim-text {
+  font-family: Manrope;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10vw;
+  white-space: nowrap;
+  line-height: 110%;
+  letter-spacing: -0.02em;
+  /* transform: rotate(-38deg); */
+  color: rgba(247, 247, 249, 0.05);
+}
